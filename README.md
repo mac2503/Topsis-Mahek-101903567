@@ -5,7 +5,7 @@
 ## Installation
 
 ```sh
->> pip install Topsis-Mahek-101903567==1.0.0
+>> pip install Topsis-Mahek-101903567==1.0.1
 ```
 
 ## How to use it?
